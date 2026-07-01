@@ -25,4 +25,5 @@ El dashboard permite:
 ## Tableau Public
 
 Enlace al dashboard interactivo:
-https://public.tableau.com/views/Proyecto_Sprint13_AO/AnlisisdeTendenciasdeVideosporReginyCategora?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/dashboard-tableau_17829454736410/AnlisisdeTendenciasdeVideosporReginyCategora?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
