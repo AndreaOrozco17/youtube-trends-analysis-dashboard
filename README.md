@@ -27,3 +27,4 @@ El dashboard permite:
 Enlace al dashboard interactivo:
 https://public.tableau.com/views/dashboard-tableau_17829454736410/AnlisisdeTendenciasdeVideosporReginyCategora?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+
